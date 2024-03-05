@@ -1,0 +1,18 @@
+Loading net-file from 'acosta_buslanes.net.xml' ... done (55ms).
+Loading additional-files from 'acosta_vtypes.add.xml' ... done (10ms).
+Loading additional-files from 'acosta_detectors.add.xml' ... done (9ms).
+Loading additional-files from 'acosta_bus_stops.add.xml' ... done (5ms).
+Loading additional-files from 'acosta_tls.add.xml' ... done (8ms).
+Loading done.
+Simulation version 1.18.0 started with time: 0.00.
+Simulation ended at time: 5651.00
+Reason: All vehicles have left the simulation.
+Performance: 
+ Duration: 123.54s
+ Real time factor: 45.7412
+ UPS: 20002.452587
+Vehicles: 
+ Inserted: 8779
+ Running: 0
+ Waiting: 0
+
